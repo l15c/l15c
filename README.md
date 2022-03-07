@@ -31,7 +31,7 @@
 ### ⚫️ Programming Languages
 
 <p align="left">
- <a href="https://www.javascript.com/" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23--F7DF1E?logo=javascript&logoColor=000"></a>
+ <a href="https://www.javascript.com/" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript--F7DF1E?logo=javascript&logoColor=000"></a>
  <a href="https://www.typescriptlang.org/" target="_blank"> <img alt="TypeScript" src="https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff"></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
   <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
