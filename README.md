@@ -3,10 +3,10 @@
 <h3 align="center">Hey there, I'm <a href="https://www.facebook.com/DevL15C">Le Huu Loc</a> - L15C <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 <br>
 <p align="center">
-<a href="mailto:lehuuloc126@gmail.com"><img src="https://img.shields.io/badge/-LEHUULOC126@-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/DevL15C"><img src="https://img.shields.io/badge/-Hữu Lộc-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://instagram.com/_l15c_"><img src="https://img.shields.io/badge/-@__l15c__-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://discordapp.com/users/302473151986663425"><img src="https://img.shields.io/badge/@L15C-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="mailto:lehuuloc126@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/DevL15C"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://instagram.com/_l15c_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://discordapp.com/users/302473151986663425"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <br>
  <br>
   <div>
