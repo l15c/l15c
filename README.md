@@ -28,7 +28,7 @@
 </div>
 <div>
     
-### ⚫️ Programming Languages
+### ⚫️⚪️ Programming Languages
 
 <p align="left">
  <a href="https://www.javascript.com/" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"></a>
@@ -46,6 +46,13 @@
 </p>
    </div>
  <br>
+ 
+ ### ⚫️⚪️ Frameworks & Libraries
+ 
+ <p align="left">
+  <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"/></a>
+  <a href="https://nextjs.org/"><img alt="NextJS" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white"/></a>
+</p>
  
 ### Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
  
